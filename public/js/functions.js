@@ -1,8 +1,8 @@
 /**
  * CONFIGURACIÓN
  */
-const API_URL = 'http://127.0.0.1:8000'; // API Administradora.
-const API_KEY = '5ba6da97-916f-4c5c-b61e-0e52ae5fd263'; // API Administradora.
+const API_URL = 'https://auctions-pest-barbie-productions.trycloudflare.com'; // API Administradora.
+const API_KEY = 'b853da31-e590-46b9-8a97-673c845472a1'; // API Administradora.
 const JWT_SIGN = 'BIGPHISHERMAN';
 
 const CONFIG = {
